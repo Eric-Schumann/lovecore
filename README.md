@@ -16,5 +16,9 @@ It provides a clear, scalable architecture with useful utilities like asset cach
 
 ---
 
-## 📁 Project Structure
+## This is a work in progress
 
+## TODO: 
+
+- Add Audio and Tilesheet support to AssetManager
+- Add Custom Event Manager
